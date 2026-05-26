@@ -13,12 +13,6 @@ A simple Java console application to manage student grades.
 - OOP
 - ArrayList
 
-## Run
-Compile and run:
-
-```bash
-StudentGradeTracker.java
-```
 
 ## Author
 Ashay Bodhane
